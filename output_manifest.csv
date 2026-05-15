@@ -1,9 +1,0 @@
-Paper Item,Paper Description,Repository File
-Table 1,Optimization Configuration,outputs/optimization_configuration.csv
-Table 2,Pareto Objective Summary,outputs/pareto_objective_summary.csv
-Table 3,Representative Policy Allocation Scenarios,outputs/representative_policy_allocation_scenarios.csv
-Table 4,Objective Performance of Selected Scenarios,outputs/objective_performance_selected_scenarios.csv
-Table 5,Scenario Interpretation Summary,outputs/scenario_interpretation_summary.csv
-Appendix,Full Non-Dominated Solutions,outputs/full_non_dominated_solutions.csv
-Figure 1,Pareto Front,figures/pareto_front.png
-Figure 2,Objective Performance Comparison,figures/objective_performance_comparison.png
