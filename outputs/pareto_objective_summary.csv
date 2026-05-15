@@ -1,0 +1,5 @@
+Objective,Optimization Direction,Minimum,Maximum,Mean,Standard Deviation
+Economic Cost,Lower is better,80.0,150.0,112.47,20.25
+Environmental Burden,Lower is better,0.0,120.0,62.95,28.79
+Social Impact,Higher is better,0.0,110.0,48.23,29.4
+Resilience Score,Higher is better,0.0,90.0,39.57,25.45

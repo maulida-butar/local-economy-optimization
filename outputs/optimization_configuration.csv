@@ -1,0 +1,12 @@
+Component,Value
+Optimization algorithm,NSGA-II
+Population size,100
+Number of generations,500
+Number of decision variables,4
+Number of objectives,4
+Budget normalization,Applied
+Total budget allocation,100%
+Decision bounds,0 to 1
+Policy sectors,"UMKM, environment, social, resilience"
+Optimization output,Non-dominated policy allocation scenarios
+Number of non-dominated solutions,100

@@ -1,0 +1,6 @@
+Scenario,Main Interpretation
+1: Extreme Econ,"Lowest economic cost, but highest environmental burden"
+2: Extreme Env,"Lowest environmental burden, but no direct social impact under the current model structure"
+3: Extreme Social,"Highest social impact, but no direct resilience contribution under the current model structure"
+4: Extreme Resil,"Highest resilience score, but highest economic cost"
+5: Balanced,Moderate compromise across all objective dimensions
