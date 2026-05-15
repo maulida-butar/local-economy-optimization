@@ -1,6 +1,0 @@
-Scenario,Economic Cost,Environmental Burden,Social Impact,Resilience Score
-1: Extreme Econ,80.0,120.0,50.0,20.0
-2: Extreme Env,120.0,0.0,0.0,40.0
-3: Extreme Social,90.0,80.0,110.0,0.0
-4: Extreme Resil,150.0,60.0,30.0,90.0
-5: Balanced,104.5,74.0,51.0,33.0
