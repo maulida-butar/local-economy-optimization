@@ -1,0 +1,6 @@
+Scenario,UMKM (%),Env (%),Social (%),Resil (%),Policy Orientation
+1: Extreme Econ,100.0,0.0,0.0,0.0,Analytical Benchmark
+2: Extreme Env,0.0,100.0,0.0,0.0,Analytical Benchmark
+3: Extreme Social,0.0,0.0,100.0,0.0,Analytical Benchmark
+4: Extreme Resil,0.0,0.0,0.0,100.0,Analytical Benchmark
+5: Balanced,35.0,20.0,25.0,20.0,Realistic Compromise
